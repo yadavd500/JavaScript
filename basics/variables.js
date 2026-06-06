@@ -7,7 +7,7 @@ accountPassword = "123456"
 //accountId = 2 // not allowed
 
 console.log(accountCity)
-
+let accountState
 //to print multiple value //
 
-console.table([accountEmail,accountId,accountCity,accountPassword])
+console.table([accountEmail,accountId,accountCity,accountPassword,accountState])
