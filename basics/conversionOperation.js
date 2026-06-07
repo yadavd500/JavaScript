@@ -24,7 +24,7 @@ let booleanIsLoggedIn   =   Boolean(isLoggedIn)
 
 let value = 3
 let negValue = -value
-//console.log(negValue)
+console.log(negValue)
 
 console.log(2+3)
 console.log(52+2)
@@ -32,5 +32,12 @@ console.log(20/2)
 console.log(2**2)
 console.log(2*2)
 console.log(20%3)
-console.log( 2==5)
 
+
+//to add stings//
+
+let str1 = "New"
+let str2 = " Delhi"
+
+let str3 = str1 + str2
+console.log(typeof [console.log(str3)])
